@@ -7,7 +7,7 @@ return ('Happy holidays, you!');
 }
 
 function happyHolidayTo(string){
- return ('Happy Easter, you!');
+ return ('Happy Independence Day, you!');
   
 }
 
