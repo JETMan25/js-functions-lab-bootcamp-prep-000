@@ -12,5 +12,5 @@ function happyHolidayTo(string){
 }
 
 function holidayCountdown(){
-  return (`It's 40 days until Christmas!`);
+  return (`It's 20 days until Mother's Day!`);
 }
